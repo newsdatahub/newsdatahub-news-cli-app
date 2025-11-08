@@ -1,8 +1,3 @@
-Absolutely — here’s a **clean, visually engaging README.md** ready for your repo `newsdatahub-news-cli-app`.
-It’s structured for GitHub readability, SEO-friendly, and designed to look professional while keeping your tone approachable.
-(Just replace `YOUR_GIF_URL_HERE` with your actual GIF link.)
-
----
 
 ````markdown
 # 📰 NewsDataHub News CLI App
@@ -10,7 +5,7 @@ It’s structured for GitHub readability, SEO-friendly, and designed to look pro
 A colorful, emoji-powered **Python terminal app** that fetches and displays the latest U.S. tech headlines — powered by the **[NewsDataHub](https://newsdatahub.com)** API.  
 Built for developers who want quick, fun, and filtered access to the news that matters.
 
-![Demo](YOUR_GIF_URL_HERE)
+![Demo](GIF_URL_HERE)
 
 ---
 
