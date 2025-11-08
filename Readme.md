@@ -5,7 +5,7 @@
 A colorful, emoji-powered **Python terminal app** that fetches and displays the latest U.S. tech headlines — powered by the **[NewsDataHub](https://newsdatahub.com)** API.  
 Built for developers who want quick, fun, and filtered access to the news that matters.
 
-![Demo](GIF_URL_HERE)
+![Demo](assets/newsdatahub-news-cli-app.gif)
 
 ---
 
