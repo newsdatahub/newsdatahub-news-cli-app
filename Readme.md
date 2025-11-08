@@ -1,5 +1,5 @@
 
-````markdown
+
 # 📰 NewsDataHub News CLI App
 
 A colorful, emoji-powered **Python terminal app** that fetches and displays the latest U.S. tech headlines — powered by the **[NewsDataHub](https://newsdatahub.com)** API.  
@@ -148,4 +148,3 @@ MIT © 2025 NewsDataHub
 * 🐦 [Follow on X](https://x.com/newsdatahub)
 * 🌐 [NewsDataHub.com](https://newsdatahub.com)
 
-```
