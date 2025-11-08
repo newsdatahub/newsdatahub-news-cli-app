@@ -9,15 +9,15 @@ Built for developers who want quick, fun, and filtered access to the news that m
 
 ---
 
-## ✨ Features
+## Features
 
-- 🧠 Fetches **mainstream U.S. technology news**
-- 🎨 Beautiful, colored terminal output (via [`rich`](https://github.com/Textualize/rich))
-- 🤖 Adds contextual emojis to headlines
-- 🌐 Clickable article links (in supported terminals)
-- ⚡ Handles rate limits & API errors gracefully
-- ⏰ Optional cron automation for scheduled updates
-- 💡 Fully configurable via a single Python file
+- Fetches **mainstream U.S. technology news**
+- Beautiful, colored terminal output (via [`rich`](https://github.com/Textualize/rich))
+- Adds contextual emojis to headlines
+- Clickable article links (in supported terminals)
+- Handles rate limits & API errors gracefully
+- Optional cron automation for scheduled updates
+- Fully configurable via a single Python file
 
 ---
 
@@ -53,7 +53,7 @@ python3 newsdatahub_news_cli.py
 
 ---
 
-## ⚙️ Configuration
+## Configuration
 
 All configuration is centralized near the top of the script:
 
@@ -72,7 +72,7 @@ Adjust these fields to target different topics, countries, or source types.
 
 ---
 
-## ⏰ Automate with Cron (optional)
+## Automate with Cron (optional)
 
 To fetch news automatically (e.g. twice per day):
 
@@ -100,7 +100,7 @@ That runs it at **10 AM** and **4 PM** every day.
 
 ---
 
-## 💻 Example Output
+## Example Output
 
 ```
 📰 Presented by NewsDataHub — Your Gateway to Global News Intelligence
